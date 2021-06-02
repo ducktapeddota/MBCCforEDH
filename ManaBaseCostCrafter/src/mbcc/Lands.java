@@ -4,10 +4,10 @@ public class Lands {
 	
 	private String name;
 	private Integer cost;
-	private String colors;
+	private Color colors;
 	private int type;
 	
-	public Lands(String n, Integer c, String col, int t) {
+	public Lands(String n, Integer c, Color col, int t) {
 		this.name = n;
 		this.cost = c;
 		this.colors = col;
@@ -34,10 +34,10 @@ public class Lands {
 	public void setCost(Integer cost) {
 		this.cost = cost;
 	}
-	public String getColors() {
+	public Color getColors() {
 		return colors;
 	}
-	public void setColors(String colors) {
+	public void setColors(Color colors) {
 		this.colors = colors;
 	}
 	
