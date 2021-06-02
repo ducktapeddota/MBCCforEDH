@@ -18,3 +18,6 @@ the basic workings of the program should allow for me to change to more optimal 
 functionality is going to be expanded upon over time
 
 probably overhaul the inner workings before proceeding
+
+
+# As of 2021, I am essentially remaking this based on the knowledge and experience I have now.
